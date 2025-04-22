@@ -1,1 +1,4 @@
-http://sorunsuztv.xyz:8080/get.php?username=sbayyigit&password=MYfmetT7Cd&type=m3u&output=ts
+http://main.9985460.xyz:8080/get.php?username=hsy6323t&password=J9NQ8tBkNKYp&type=m3u_plus
+http://nharika.xyz:8080/get.php?username=hsy6323t&password=J9NQ8tBkNKYp&type=m3u_plus
+http://cihx86.com:8080/get.php?username=hsy6323t&password=J9NQ8tBkNKYp&type=m3u_plus
+http://nsunucular.com:8080/get.php?username=hsy6323t&password=J9NQ8tBkNKYp&type=m3u_plus
