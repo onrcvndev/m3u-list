@@ -1,2 +1,1 @@
 https://ap.4531327.xyz/get.php?username=ayhancoskun12&password=04.12.2021&type=m3u
-http://aybytv.xyz:8080/get.php?username=thm24723&password=eAd6Dm6ZuFTA&type=m3u&output=ts
