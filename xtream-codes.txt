@@ -1,1 +1,1 @@
-http://totemtv.de:8080/get.php?username=Oguzknjs&password=qQpGVfnGX9Uf&type=m3u_plus
+http://aybytv.xyz:8080/get.php?username=ereninan&password=14531453&type=m3u_plus
