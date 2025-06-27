@@ -1,0 +1,1 @@
+http://chopin46.xyz:80/get.php?username=barbaros01&password=Sp8dK9ySBp&type=m3u&output=ts
