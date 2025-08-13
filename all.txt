@@ -1,1 +1,1 @@
-https://addon.onurcivanoglu.com.tr/get.php?username=onur123&password=onur123&type=m3u_plus
+https://raw.githubusercontent.com/atakan1983/tvcer/refs/heads/main/rectv_canli.m3u
